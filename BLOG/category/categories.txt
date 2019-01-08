@@ -2,3 +2,4 @@ project
 post
 exemple...
 events
+publications
