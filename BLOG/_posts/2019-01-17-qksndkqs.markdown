@@ -2,7 +2,7 @@
 layout: post
 title: "qksndkqs"
 date: 2019-01-17
-categories: post
+categories: newCat
 ---
 
 # knckjqsdn

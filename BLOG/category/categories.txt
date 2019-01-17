@@ -3,3 +3,4 @@ post
 exemple...
 events
 publications
+newcat
